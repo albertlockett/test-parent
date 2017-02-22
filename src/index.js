@@ -1,1 +1,2 @@
 test
+delete console.log
